@@ -63,7 +63,7 @@
 | Animation Blueprint   | ABP_       |            |
 | Animation Composite   | AC_        |            |
 | Animation Montage     | AM_        |            |
-| Animation Sequence    | A_ or AS_  |            |
+| Animation Sequence    | AS_  |            |
 | Blend Space           | BS_        |            |
 | Blend Space 1D        | BS1D_        |            |
 | Level Sequence        | LS_        |            |
