@@ -48,7 +48,7 @@
 | Level (Gameplay)   |              | _Gameplay  |
 | Blueprint          | BP_          |            |
 | Material           | M_           |            |
-| Static Mesh        | S_           |            |
+| Static Mesh        | SM_          |            |
 | Skeletal Mesh      | SK_          |            |
 | Texture            | T_           |См. таблицу [Текстуры](#txtrs)|
 | Particle System    | PS_          |            |
